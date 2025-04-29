@@ -5,8 +5,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - Neovim and Linux enjoyer 🗿
-- I love learning new technologies and staying up to date
-- I build random demo projects and things that interests me.
+- I love knowing how things work behind the scenes and am curious how things are implemented.
+- I build random demo projects and things that interest me.
 
 ## My goals 2025 🎯
 
